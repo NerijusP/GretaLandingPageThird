@@ -1,21 +1,18 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Meditacijos nektaras",
+    "paragraph": "Meditacija gali nuraminti visas audras tavo viduje. O tada nurims ir viskas aplinkui. Netgi fizinė sveikata ims gerėti."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Meistras Binay Singh Meditacijos ekspertas Gydomosios Visatos energijos (orig. Divya Urja) meistras Lama Ferra energijos meistras\nAuros valymo ir atstatymo ekspertas. Negatyvios energijos panaikinimo ekspertas.Patirtis, dirbant su energetika - apie 30 m.\nGyvena Indijoje.Ganesha Meistro vienas stipriausių mokinių, gavęs aukšto lygio žinias bei praktikas Patirtis, dirbant su energija ir aukštesniojo lygio dvasinėmis praktikomis, perduotomis Meistro - 4 m.\nGyvena Indijoje. Greta Padleckienė Meistro mokinė Patirtis su dvasinėmis praktikomis - 2 m. Lietuva.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Nereikia patirties dvasinėse praktikose",
+      "Online susitikimai numatomi 1 kartą per savaitę",
+      "Kasdieninė praktika užims tik 15-30 min",
+      "Patyrusio Meistro priežiūra"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Spartesnis tobulėjimas"
     ]
   },
   "Gallery": [
@@ -132,23 +129,23 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Binay Singh",
+      "job": "Meistras"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Ganesha",
+      "job": "Patyręs mokinys"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Manohar Kumar Sinha",
+      "job": "Meistro mokinys"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Greta Padleckienė",
+      "job": "Meistro mokinys"
     }
   ],
   "Contact": {
@@ -162,23 +159,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Tereikės Priimti",
+      "text": "Todėl, kad bus perduotos jau paruoštos meditacijos energijos. Tau tereikės jas priimti meditatyvioje būsenoje.\n"
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Patyręs Meistras",
+      "text": "Patyrusio Meistro dėka tu gali sutaupyti kelerius metus, per kuriuos meditacijoje galbūt nelabai kas vyksta ir pereiti į pažengusį lygmenį vos per kelis mėnesius."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Aukšta Energetika",
+      "text": "Meditacija Meistro akivaizdoje yra labai stipri patirtis, jo aukštos energetikos. Taip pat, jo perduodamos energijos leis daug greičiau patirti tikrąją meditacijos galią, kam, įprastu atveju, gali reikėti ir kelerių ar net 10 metų."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Palaiminimas",
+      "text": "Tai yra palaiminimas, kurį gali duoti tik labai patyręs meditacijos ekspertas."
     }
   ]
 }
