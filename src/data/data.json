@@ -1,10 +1,10 @@
 {
   "Header": {
     "title": "Meditacijos nektaras",
-    "paragraph": "Meditacija gali nuraminti visas audras tavo viduje. O tada nurims ir viskas aplinkui. Netgi fizinė sveikata ims gerėti."
+    "paragraph": "Nuramink savo audras, tada nurims ir viskas aplink Tave"
   },
   "About": {
-    "paragraph": "Meistras Binay Singh Meditacijos ekspertas Gydomosios Visatos energijos (orig. Divya Urja) meistras Lama Ferra energijos meistras\nAuros valymo ir atstatymo ekspertas. Negatyvios energijos panaikinimo ekspertas.Patirtis, dirbant su energetika - apie 30 m.\nGyvena Indijoje.Ganesha Meistro vienas stipriausių mokinių, gavęs aukšto lygio žinias bei praktikas Patirtis, dirbant su energija ir aukštesniojo lygio dvasinėmis praktikomis, perduotomis Meistro - 4 m.\nGyvena Indijoje. Greta Padleckienė Meistro mokinė Patirtis su dvasinėmis praktikomis - 2 m. Lietuva.",
+    "paragraph": "Aš buvau ieškojimuose. Greičiausiai, kaip ir Tu. Taip, turiu paklausią teisininkės specialybę, bet siela visada šaukėsi daugiau. Žinojau, kad galiu daugiau, jausti daugiau, patirti daugiau, dovanoti kitiems daugiau. \n\nTada prasidėjo mokymasis. Stipriausiai mokė gyvenimas, kai vistiek grįždavau į tašką, kai nebenoriu visiškai nieko. Tada vėl ieškojau mokytojo, kuriuo galėčiau pasitikėti. Sutikau pakeleivių. Daug ko sutikau… Kol pagaliau atsidūriau ten, kur turėjau atsidurti. \n\nKai sutikau savo kolegą Manohar, supratau, ką reiškia, kai į gyvenimą ateina ryški šviesa. Kai pirmą kartą online pamačiau Meistrą, įvyko atpažinimas visais lygmenimis. Čia radau sistemą, kur viskas aišku nuo pirmos dienos. Jokių nerealių pažadų, tačiau viskas tam, kad atsistotum ant kojų ir pagaliau išpildytum savo pilną potencialą. Ir, jei eini dvasinio tobulėjimo keliu, jei nepameti bendro supratimo, visada turėsi vedimą, turėsi pagalbą. Ir sustiprėsi savo tempu. Kiekvienas esam skirtingas ir nevienodą koekį šviesos iš karto galim priimti. \n\nTaigi, išlaikant tą patį standartą, “Meditacijos nektare” ir visuose kituose projektuose viskas vyksta mažais žingsneliais, kad nepamestume savęs, kad dvasinis tobulėjimas eitų darnoje su kasdieniniu gyvenimu. Net, jeigu mėgsti patirtis, kurios “nurauna stogą”, vis dėlto būtų nelengva tokioje būsenoje gyventi kelis mėnesius. \n\nPagrindinis prioritetas čia - balansas. Saldumas, kurį patirsi meditacijoje, pereis į Tavo kasdienybę tam, kad, visų pirma, taptum geresniu žmogumi, galėtum ramiau reaguoti į situacijas, neveikti iš skausmo ar traumos, o matyti viską iš šalies ir taip pat kito žmogaus akimis, ir taip rasti tinkamiausius sprendimus. \n\nJei nori tobulėti harmoningai, su patyrusio specialisto vedimu, patirti tikrąją meditacijos galią, sutaupant dar kelerius metus blaškymosi ir eksperimentavimo, dabar esi tinkamoje vietoje. ",
     "Why": [
       "Nereikia patirties dvasinėse praktikose",
       "Online susitikimai numatomi 1 kartą per savaitę",
@@ -130,22 +130,22 @@
     {
       "img": "img/team/01.jpg",
       "name": "Binay Singh",
-      "job": "Meistras"
+      "job": "Gydomosios Visatos energijos (orig. Divya Urja) meistras\nLama Ferra energijos meistras\nAuros valymo ir atstatymo ekspertas\nNegatyvios energijos panaikinimo ekspertas.\n\nPatirtis, dirbant su energetika - apie 30 m.\nGyvena Indijoje."
     },
     {
       "img": "img/team/02.jpg",
       "name": "Ganesha",
-      "job": "Patyręs mokinys"
+      "job": "Meistro vienas stipriausių mokinių, gavęs aukšto lygio žinias bei praktikas\nPatirtis, dirbant su energija ir aukštesniojo lygio dvasinėmis praktikomis, perduotomis Meistro - 4 m.\nGyvena Indijoje."
     },
     {
       "img": "img/team/02.jpg",
       "name": "Manohar Kumar Sinha",
-      "job": "Meistro mokinys"
+      "job": "Meistro mokinys\nPatirtis praktikuojant su energija 2 m., patirtis su dvasinėmis praktikomis -  10 m.\nGyvena Indijoje."
     },
     {
       "img": "img/team/03.jpg",
       "name": "Greta Padleckienė",
-      "job": "Meistro mokinys"
+      "job": "Meistro mokinė\nPatirtis su dvasinėmis praktikomis - 2 m.\nLietuva."
     }
   ],
   "Contact": {

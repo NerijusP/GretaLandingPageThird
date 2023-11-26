@@ -29,12 +29,12 @@ export const Navigation = (props) => {
                     <ul className="nav navbar-nav navbar-right">
                         <li>
                             <a href="#features" className="page-scroll">
-                                Savybės
+                                Trumpai
                             </a>
                         </li>
                         <li>
                             <a href="#about" className="page-scroll">
-                                Apie Mus
+                                Istorija
                             </a>
                         </li>
                         {/*<li>*/}
@@ -49,17 +49,17 @@ export const Navigation = (props) => {
                         {/*</li>*/}
                         <li>
                             <a href="#testimonials" className="page-scroll">
-                                Atsiliepimai
+                                Patirtys
                             </a>
                         </li>
                         <li>
                             <a href="#team" className="page-scroll">
-                                Komanda
+                                Žmonės
                             </a>
                         </li>
                         <li>
                             <a href="#contact" className="page-scroll">
-                                Kontaktai
+                                Susisiek
                             </a>
                         </li>
                     </ul>
