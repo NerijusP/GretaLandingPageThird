@@ -19,8 +19,14 @@ export const Contact = (props) => {
     const handleSubmit = (e) => {
         e.preventDefault();
         console.log(name, email, message);
+
+        const formData = {
+            name: e.target.name.value,
+            email: e.target.email.value,
+            message: e.target.message.value
+        };
         emailjs
-            .sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", e.target, "YOUR_USER_ID")
+            .sendForm("service_e710yam", "template_q2oqpol", e.target, "bxvztj75e2e_dMqbn")
             .then(
                 (result) => {
                     console.log(result.text);
